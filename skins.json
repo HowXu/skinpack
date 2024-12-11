@@ -1,0 +1,12 @@
+{
+    "serialize_name": "howxuSkinPack",
+    "localization_name": "howxuSkinPack",
+    "skins": [
+        {
+            "localization_name": "howxu",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "howxu.png",
+            "type": "free"
+        }
+    ]
+}
